@@ -25,6 +25,7 @@ const config = {
     'layout.noverlap': sigmaPluginsRoot + '/sigma.layout.noverlap/sigma.layout.noverlap.js',
     'plugins.relativeSize': sigmaPluginsRoot + '/sigma.plugins.relativeSize/sigma.plugins.relativeSize.js',
     // add any extra sigma modules here
+    'sigma.plugins.parallelEdges': sigmaSrcRoot + '/parallel.js',
   },
   module: {
     rules: [

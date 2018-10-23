@@ -1,0 +1,6 @@
+import 'sigma-react/plugins/sigma.renderers.parallelEdges/utils.js'
+import 'sigma-react/plugins/sigma.renderers.parallelEdges/sigma.canvas.edgehovers.curvedArrow.js'
+import 'sigma-react/plugins/sigma.renderers.parallelEdges/sigma.canvas.edges.curvedArrow.js'
+import 'sigma-react/plugins/sigma.renderers.parallelEdges/sigma.canvas.edgehovers.curve.js'
+import 'sigma-react/plugins/sigma.renderers.parallelEdges/sigma.canvas.edges.curve.js'
+import 'sigma-react/plugins/sigma.renderers.parallelEdges/sigma.canvas.edges.labels.curve.js'
